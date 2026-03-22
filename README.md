@@ -1,47 +1,78 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# Ashish Kundu Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+Personal developer portfolio built with Next.js, Tailwind CSS, and Framer Motion.
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
+## Live Website
 
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
+- https://iamashishkundu.vercel.app
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+## Repository
 
----
-✨ Checkout my brand new Saas application -> [AI Headshot Generator](https://www.smartheadshots.ai)
+- https://github.com/iamashishkundu/portfolio
 
----
+## About
 
-### Images of The Portfolio Website:
+This portfolio presents my work as a full-stack developer focused on scalable, performant, and user-centered web applications. It includes:
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+- Home page introduction and resume access
+- About page with biography, skills, experience, and education
+- Projects page with featured work and project links
 
+## Featured Projects
 
-### Resources Used in This Project
+- Testify - Full-Stack EdTech Platform
+- Resumind - AI Resume Analyzer
+- Workforce360
+- Algorithm Visualizer
+- Sweet Shop Management System
+- Codehive
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+## Tech Stack
 
-### External Libraries used in this project:
+- Next.js 14
+- React 18
+- Tailwind CSS 3
+- Framer Motion
+- PostCSS + Autoprefixer
 
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
+## Getting Started
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Run the development server
+
+```bash
+npm run dev
+```
+
+Open http://localhost:3000 in your browser.
+
+### 3. Build for production
+
+```bash
+npm run build
+```
+
+### 4. Start production server
+
+```bash
+npm run start
+```
+
+## Scripts
+
+- npm run dev - start development mode
+- npm run build - create production build
+- npm run start - run production server
+- npm run lint - run lint checks
+
+## Contact
+
+- Email: ashishkundu1708@gmail.com
+- GitHub: https://github.com/iamashishkundu
 
 
